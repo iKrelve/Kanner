@@ -34,5 +34,5 @@
 				R.drawable.d, R.drawable.e };
 		kanner.setImagesRes(imagesRes);
 ```
-**运行：**
+**运行：**  
 ![](http://7xjs0n.com1.z0.glb.clouddn.com/kanner.gif)
