@@ -251,5 +251,10 @@ public class Kanner extends FrameLayout {
         }
 
     }
+    
+    public void removeCallbacksAndMessages() {
+        handler.removeCallbacksAndMessages(null);
+        context = null;
+    }
 
 }
